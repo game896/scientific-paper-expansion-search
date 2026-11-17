@@ -1,0 +1,17 @@
+Softverska platforma za praćenje naučne podoblasti sa automatskim
+ažuriranjem
+Kreirati softversku platformu za centralizovano predstavljanje određene naučne podoblasti,
+koja obuhvata njene radove, autore i časopise. Sadržaj se automatski popunjava
+prikupljanjem sa interneta, na osnovu inicijalnog ručno definisanog početnog skupa -
+istraživačke oblasti, ključnih autora, radova i ključnih reči, nakon čega se platforma
+kontinuirano i autonomno proširuje i ažurira.
+Za razliku od tradicionalnih informacionih sistema o tekućim istraživanjima (Current
+Research Information Systems, CRIS), koji čuvaju stroge veze između entiteta, ova platforma
+predstavlja autore, radove, koncepte i časopise isključivo kroz obradu pomoću LLM-ova i
+vektorske reprezentacije (embeddings) u zajedničkom vektorskom prostoru, gde blizina
+određuje povezanost i pokreće funkcionalnosti pretrage i preporuka. Rezultat je
+kontinuirano održavan, semantički organizovan prikaz jedne naučne podoblasti, koji
+podržava i pronalaženje relevantnih radova i otkrivanje novih veza unutar oblasti.
+Realizovati studiju slučaja na jednoj reprezentativnoj naučnoj podoblasti:
+• Projekat 8b: Studija slučaja istraživanja Evropske grupe za matematičku psihologiju
+(European Mathematical Psychology Group)
